@@ -56,7 +56,7 @@
     * 大量エージェント処理ミドルウェア
     * Webサービス/SOAPエンジン、Webサービスセキュリティ、XMLフォーム処理エンジン
   * 主な成果
-    * 分散トランザクショナルキャッシュIBM WebSphere XD/ObjectGridを製品化
+    * 分散トランザクショナルキャッシュIBM WebSphere XD/ObjectGrid（後の[eXtreme Scale](https://www.ibm.com/products/ibm-websphere-extreme-scale)）を製品化
     * EJB向けデータパーティショニング技術であるIBM WebSphere XD/WebSphere Partitioning Facilityを製品化
     * Webサービス向けセキュリティ技術であるIBM WebSphere/WS-Securityコンポーネントを製品化
     * SOAPエンジン[Apache Axisプロジェクト](https://axis.apache.org/axis2/java/core/index.html)のコミッタとして活動
