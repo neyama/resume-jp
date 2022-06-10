@@ -20,11 +20,11 @@
 * 社内外のステークホルダーとの交渉および合意形成
 * 研究用ソフトウェアのアジャイル開発
   * プログラミング言語：Java, Scala, C/C++, Python, Rust, JavaScript, MATLAB等
-　* データ形式：XML, SOAP, JSON, Protocol Buffers等
-　* データベース：PostgreSQL, PostGIS, MySQL等
-　* 分散ミドルウェア：Apache Spark等
-　* クラウド：AWS (IAM, EC2, EMR, Elasticache, DynamoDB, CloudFormation, CodeCommit等)
-　* 開発ツール：Git, VSCode, IntelliJ, Ansible, Jupyter Notebook, Pandas, Matplotlibなど
+  * データ形式：XML, SOAP, JSON, Protocol Buffers等
+  * データベース：PostgreSQL, PostGIS, MySQL等
+  * 分散ミドルウェア：Apache Spark等
+  * クラウド：AWS (IAM, EC2, EMR, Elasticache, DynamoDB, CloudFormation, CodeCommit等)
+  * 開発ツール：Git, VSCode, IntelliJ, Ansible, Jupyter Notebook, Pandas, Matplotlibなど
 
 ## 職務経歴詳細
 
