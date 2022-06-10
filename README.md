@@ -11,6 +11,8 @@
 * 1999年4月～2007年3月
   * 日本アイ・ビー・エム株式会社
 
+一貫して、エンタープライズ向け分散コンピューティング・分散DBに興味を持ち続ける。実課題の解決を通じ、研究成果を世の中の製品やサービスにつなげる能力と経験を有している。IBM基礎研では、USの開発チームと研究成果の製品化を実現するとともに、OSSのコミュニティ参画、Apacheプロジェクトの立ち上げに貢献した。ウタゴエでは、IPA未踏ソフト本体に採択、新規事業創出にチャレンジした。トヨタIT開発センターでは、車両データ活用型の新規サービス創出と技術開発に取り組むとともに、リソースの限られる車両とサーバが連携し効率的にデータを収集する仕組みの製品化に貢献した。トヨタ自動車では、引き続き、データ処理・データ管理基盤の研究開発に従事、車両ビッグデータを効率的に収集・蓄積・処理する技術の開発に取り組んでいる。
+
 ## 経験・知識・技術
 
 * チームおよびプロジェクト・マネージメント
@@ -43,7 +45,7 @@
     * 課題創出・課題解決・顧客製品への仕様織込み一連の研究活動をリードし推進
 * 2007年4月～2008年4月　ウタゴエ株式会社
   * 業務内容
-    * 情報処理推進機構（IPA）未踏ソフトウェア創造事業「Peer-to-Peer映像・音声配信基盤の研究」
+    * 情報処理推進機構（IPA）未踏ソフトウェア創造事業「[視聴体験の受動性・能動性を柔軟に構成可能なPeer-to-Peer映像・音声配信基盤](https://www.ipa.go.jp/jinzai/esp/2007mito1/gaiyou/10-8.html)」
   * 主な成果
     * 未踏ソフト本体に採択、ネットワーク上における多数同時参加型の映像視聴体験を提案
     * スタートアップにおける新規ビジネス創出に挑戦
@@ -60,15 +62,14 @@
     * SOAPエンジンApache Axisプロジェクトのコミッタとして活動
 
 # 保有資格
-* 普通自動車免許(第一種)
+* 普通自動車免許（第一種）
 * 第二種情報処理技術者
 
 # 賞罰
-* 最優秀論文賞, 2015, WebDB Forum
-* 喜安記念業績賞, 2007, 情報処理学会
-* 社内論文優秀論文賞, 2004, 日本アイ・ビー・エム株式会社
-* 第58回全国大会 大会奨励賞, 1999, 情報処理学会
-※公開されたものに限る。
+* [最優秀論文賞, 2015, WebDB Forum](https://db-event.jpn.org/webdbf2015/award.php)
+* [喜安記念業績賞, 2007, 情報処理学会](https://www.ipsj.or.jp/award/2007kiyasu.html)
+* [社内論文優秀論文賞, 2004, 日本アイ・ビー・エム株式会社](https://community.ibm.com/community/user/communities/community-home/librarydocuments/viewdocument?DocumentKey=3162f7c4-9084-420a-a828-a35daa16d9d4)
+* [第58回全国大会 大会奨励賞, 1999, 情報処理学会](https://www.ipsj.or.jp/award/taikaisyorei.html)
 
 # 主な論文
 
@@ -77,13 +78,17 @@
 
 ## 国際学会（査読あり）
 * Ryo Neyama, Sylvain Lefebvre, Masanori Itoh, Yuji Yazawa, Akira Yoshioka, Jun Koreishi, Akihisa Yokoyama, Masahiro Tanaka, and Hiroko Okuyama, "Simulating Vehicular IoT Applications by Combining a Multi-agent System and Big Data", 8th International Workshop on Engineering Multi-Agent Systems (EMAS 2020), May 2020.
+
 ## 国際学会（査読なし）
 * Ryo Neyama and Yuichi Nakamura, “A SOAP Engine Flexibly Customizable for Header Handling”, ICSE 2001, XML Technologies and Software Engineering (Workshop), May 2001.
+
 ## 社内論文
 * 夷藤勇人, 根山亮, “J2EEクラスタリングシステムへのアプリケーションパーティショニングの適用”, 2004年度プロフェッショナル論文（優秀論文賞）.
+
 ## 研究会（査読あり）
 * 根山亮, 福島真太朗, 宮崎勝彦, 那和一成, "一般道実走行における自車センサ情報を用いた車線変更の検出." 第 8 回 Web とデータベースに関するフォーラム論文集 2015 (2015): 110-117.
 * 本田崇人, 松原靖子, 根山亮, 櫻井保志, "車両走行センサデータからの自動パターン検出." 情報処理学会論文誌データベース (TOD) 9.3 (2016): 1-13.（最優秀論文賞）
+
 ## 研究会（査読なし）
 * 根山亮, 首藤一幸, 村岡洋一: 使いやすさ・透過性・拡張性の高い分散オブジェクトシステム RyORB, 情報処理学会 プログラミング研究会 (PRO), March 1999.
 * 根山亮, 後藤 真孝, 園田 智也, 村岡 洋一: 拡張性の高いJavaマルチユーザ・フレームワーク Mug, 情報処理学会 第58回全国大会, 5M-05, March 1999.（学生奨励賞）
@@ -92,3 +97,7 @@
 * 根山亮, 中村祐一: ヘッダ処理機能を柔軟にカスタマイズ可能なSOAP プラットホーム,情報処理学会第62回全国大会, 3M-9, March 2001.
 * 根山亮, 後藤 真孝, 村岡 洋一: WWW上で公開可能な分散音楽情報処理システム --- ダウンロードしたJavaアプレットのための安全なローカル通信方法 ---	日本ソフトウェア科学会 第14回大会 B4-1, September 1997.
 * 根山亮, 後藤 真孝, 村岡 洋一: WWW上の異なる計算機環境で動作する音楽セッションシステム --- VirJa Session on WWWへ向けて ---, 情報処理学会 第54回全国大会, 7J-05, March 1997.
+
+# 講演
+* [根山亮: 先進モビリティ・サービス実現のためのデータ収集・管理基盤, Oracle Cloud Days 2021](https://www.oracle.com/jp/cloud/events/cloud-days/on-demand/#tab3)
+
