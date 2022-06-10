@@ -76,20 +76,20 @@
 ## 論文誌
 * 後藤真孝, 根山亮, “Open RemoteGIG: 遅延を考慮した不特定多数による遠隔セッションシステム”, 情報処理学会論文誌, Vol.43, No.2, pp.299-309, February 2002.
 
-## 国際学会（査読あり）
+## 国際会議（査読あり）
 * Ryo Neyama, Sylvain Lefebvre, Masanori Itoh, Yuji Yazawa, Akira Yoshioka, Jun Koreishi, Akihisa Yokoyama, Masahiro Tanaka, and Hiroko Okuyama, "Simulating Vehicular IoT Applications by Combining a Multi-agent System and Big Data", 8th International Workshop on Engineering Multi-Agent Systems (EMAS 2020), May 2020.
 
-## 国際学会（査読なし）
+## 国際会議（査読なし）
 * Ryo Neyama and Yuichi Nakamura, “A SOAP Engine Flexibly Customizable for Header Handling”, ICSE 2001, XML Technologies and Software Engineering (Workshop), May 2001.
 
 ## 社内論文
 * 夷藤勇人, 根山亮, “J2EEクラスタリングシステムへのアプリケーションパーティショニングの適用”, 2004年度プロフェッショナル論文（優秀論文賞）.
 
-## 研究会（査読あり）
+## 国内研究会（査読あり）
 * 根山亮, 福島真太朗, 宮崎勝彦, 那和一成, "一般道実走行における自車センサ情報を用いた車線変更の検出." 第 8 回 Web とデータベースに関するフォーラム論文集 2015 (2015): 110-117.
 * 本田崇人, 松原靖子, 根山亮, 櫻井保志, "車両走行センサデータからの自動パターン検出." 情報処理学会論文誌データベース (TOD) 9.3 (2016): 1-13.（最優秀論文賞）
 
-## 研究会（査読なし）
+## 国内研究会（査読なし）
 * 根山亮, 首藤一幸, 村岡洋一: 使いやすさ・透過性・拡張性の高い分散オブジェクトシステム RyORB, 情報処理学会 プログラミング研究会 (PRO), March 1999.
 * 根山亮, 後藤 真孝, 園田 智也, 村岡 洋一: 拡張性の高いJavaマルチユーザ・フレームワーク Mug, 情報処理学会 第58回全国大会, 5M-05, March 1999.（学生奨励賞）
 全国大会
