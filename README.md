@@ -59,7 +59,7 @@
     * 分散トランザクショナルキャッシュIBM WebSphere XD/ObjectGridを製品化
     * EJB向けデータパーティショニング技術であるIBM WebSphere XD/WebSphere Partitioning Facilityを製品化
     * Webサービス向けセキュリティ技術であるIBM WebSphere/WS-Securityコンポーネントを製品化
-    * SOAPエンジンApache Axisプロジェクトのコミッタとして活動
+    * SOAPエンジン[Apache Axisプロジェクト](https://axis.apache.org/axis2/java/core/index.html)のコミッタとして活動
 
 # 保有資格
 * 普通自動車免許（第一種）
